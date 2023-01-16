@@ -11,8 +11,6 @@
    - **Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shenaj_Learning_Across_Domains_and_Devices_Style-Driven_Source-Free_Domain_Adaptation_in_WACV_2023_paper.pdf) / [code](https://github.com/Erosinho13/LADD)]
 
 ## ICLR 2023
- - **E^2: Entropy Discrimination and Energy Optimization for Source-free Universal Domain Adaptation**  [[paper](https://openreview.net/pdf?id=FMEXgK9-I8) / code]
-
  - **NOTELA: A Generalizable Method for Source Free Domain Adaptation**  [[paper](https://openreview.net/pdf?id=aOBs18ycBr) / code]
 
  - **Key Design Choices for Double-transfer in Source-free Unsupervised Domain Adaptation**  [[paper](https://openreview.net/pdf?id=-PL1Gk4jt7) / code]
