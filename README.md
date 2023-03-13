@@ -11,17 +11,7 @@
    - **Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Shenaj_Learning_Across_Domains_and_Devices_Style-Driven_Source-Free_Domain_Adaptation_in_WACV_2023_paper.pdf) / [code](https://github.com/Erosinho13/LADD)]
 
 ## ICLR 2023
- - **NOTELA: A Generalizable Method for Source Free Domain Adaptation**  [[paper](https://openreview.net/pdf?id=aOBs18ycBr) / code]
-
- - **Key Design Choices for Double-transfer in Source-free Unsupervised Domain Adaptation**  [[paper](https://openreview.net/pdf?id=-PL1Gk4jt7) / code]
-
- - **One Ring to Bring Them All: Model Adaptation under Domain and Category Shift**  [[paper](https://openreview.net/pdf?id=dOq0Jbg9hUt) / [code](https://github.com/Albert0147/OneRing_SF-UNDA)]
-
- - **Domain-Unified Prompt Representations for Source-Free Domain Generalization**  [[paper](https://openreview.net/pdf?id=M_c03_fU2cl) / [code](https://github.com/muse1998/source-free-domain-generalization)]
-
  - **When Source-Free Domain Adaptation Meets Learning with Noisy Labels**  [[paper](https://openreview.net/pdf?id=u2Pd6x794I) / code]
-
-
 
 ## NeurIPS 2022
  - **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**  [[paper](https://openreview.net/pdf?id=NjImFaBEHl) / [code](https://github.com/ZyeZhang/DaC)]
