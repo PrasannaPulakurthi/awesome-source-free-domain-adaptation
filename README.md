@@ -7,6 +7,9 @@ Source Free Domain Adaptation**  [[paper](https://arxiv.org/pdf/2303.17132.pdf) 
  - **Spatio-Temporal Pixel-Level Contrastive Learning-based Source-Free
 Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/pdf/2303.14361.pdf) / [code](https://github.com/shaoyuanlo/STPL)]
  
+  - **SUpcycling Models under Domain and Category Shift**  [[paper](https://arxiv.org/pdf/2303.07110.pdf) / [code](https://github.com/ispc-lab/GLC)]
+
+
 ## WACV 2023
  - **Generative Alignment of Posterior Probabilities for Source-free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chhabra_Generative_Alignment_of_Posterior_Probabilities_for_Source-Free_Domain_Adaptation_WACV_2023_paper.pdf) / code]
  
