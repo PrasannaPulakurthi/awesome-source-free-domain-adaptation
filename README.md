@@ -7,7 +7,9 @@ Source Free Domain Adaptation**  [[paper](https://arxiv.org/pdf/2303.17132.pdf) 
  - **Spatio-Temporal Pixel-Level Contrastive Learning-based Source-Free
 Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/pdf/2303.14361.pdf) / [code](https://github.com/shaoyuanlo/STPL)]
  
-  - **Upcycling Models under Domain and Category Shift**  [[paper](https://arxiv.org/pdf/2303.07110.pdf) / [code](https://github.com/ispc-lab/GLC)]
+ - **Upcycling Models under Domain and Category Shift**  [[paper](https://arxiv.org/pdf/2303.07110.pdf) / [code](https://github.com/ispc-lab/GLC)]
+ 
+ - **Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**  [[paper](https://arxiv.org/pdf/2203.15793.pdf) / [code]([https://github.com/ispc-lab/GLC](https://github.com/Vibashan/irg-sfda))]
 
 
 ## WACV 2023
