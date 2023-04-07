@@ -1,5 +1,12 @@
 # awesome-source-free-domain-adaptation
 
+## CVPR 2023
+ - **C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient
+Source Free Domain Adaptation**  [[paper](https://arxiv.org/pdf/2303.17132.pdf) / [code](https://sites.google.com/view/csfdacvpr2023/home)]
+ 
+ - **Spatio-Temporal Pixel-Level Contrastive Learning-based Source-Free
+Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/pdf/2303.14361.pdf) / [code](https://github.com/shaoyuanlo/STPL)]
+ 
 ## WACV 2023
  - **Generative Alignment of Posterior Probabilities for Source-free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chhabra_Generative_Alignment_of_Posterior_Probabilities_for_Source-Free_Domain_Adaptation_WACV_2023_paper.pdf) / code]
  
