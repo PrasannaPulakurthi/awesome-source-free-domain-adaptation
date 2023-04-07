@@ -9,7 +9,7 @@ Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/
  
  - **Upcycling Models under Domain and Category Shift**  [[paper](https://arxiv.org/pdf/2303.07110.pdf) / [code](https://github.com/ispc-lab/GLC)]
  
- - **Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**  [[paper](https://arxiv.org/pdf/2203.15793.pdf) / [code]([https://github.com/ispc-lab/GLC](https://github.com/Vibashan/irg-sfda))]
+ - **Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**  [[paper](https://arxiv.org/pdf/2203.15793.pdf) / [code](https://github.com/Vibashan/irg-sfda)]
 
 
 ## WACV 2023
