@@ -48,7 +48,7 @@ Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/
 ## ICML 2022
  - **Balancing Discriminability and Transferability for Source-Free Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.08009) / [code](https://sites.google.com/view/mixup-sfda)]
  
- - **Confidence Score for Source-Free Unsupervised Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.06640) / code]
+ - **Confidence Score for Source-Free Unsupervised Domain Adaptation**  [[paper](https://arxiv.org/abs/2206.06640) / [code](https://github.com/Jhyun17/CoWA-JMDS)]
 
 ## CVPR 2022
  - **Source-Free Domain Adaptation via Distribution Estimation**  [[paper](https://arxiv.org/abs/2204.11257) / code]
@@ -94,4 +94,4 @@ Domain Adaptation for Video Semantic Segmentation**  [[paper](https://arxiv.org/
  - **Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation**  [[paper](http://proceedings.mlr.press/v119/liang20a.html) / [code](https://github.com/tim-learn/SHOT)]
 
 ## CVPR 2020
- - **UNIVERSAL SOURCE-FREE DOMAIN ADAPTATION**  [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) / [code](https://sites.google.com/view/usfda-cvpr2020)]
+ - **Universal Source-Free Domain Adaptation**  [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) / [code](https://sites.google.com/view/usfda-cvpr2020)]
