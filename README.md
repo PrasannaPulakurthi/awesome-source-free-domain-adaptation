@@ -1,5 +1,8 @@
 # awesome-source-free-domain-adaptation
 
+## ICIP 2025
+- **Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation** [[paper](https://ieeexplore.ieee.org/document/11084606) / [code](https://github.com/PrasannaPulakurthi/SPM)]
+
 ## CVPR 2023
  - **C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient
 Source Free Domain Adaptation**  [[paper](https://arxiv.org/pdf/2303.17132.pdf) / [code](https://sites.google.com/view/csfdacvpr2023/home)]
